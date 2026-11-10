@@ -1,0 +1,4 @@
+repository "JogosEvento/JogosEvento@393128@cloud"
+  path "/"
+    br "/main"
+    co "/main"
