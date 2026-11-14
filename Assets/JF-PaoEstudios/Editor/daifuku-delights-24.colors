@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: daifuku-delights-24
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: ab6581
+    m_Color: {r: 0.6705883, g: 0.3960784, b: 0.5058824, a: 1}
+  - m_Name: bb729f
+    m_Color: {r: 0.7333333, g: 0.4470588, b: 0.6235294, a: 1}
+  - m_Name: ca7fbc
+    m_Color: {r: 0.7921569, g: 0.4980392, b: 0.7372549, a: 1}
+  - m_Name: d79dd9
+    m_Color: {r: 0.8431373, g: 0.6156863, b: 0.8509804, a: 1}
+  - m_Name: e4bbf7
+    m_Color: {r: 0.8941177, g: 0.7333333, b: 0.9686275, a: 1}
+  - m_Name: f1e4fd
+    m_Color: {r: 0.945098, g: 0.8941177, b: 0.9921569, a: 1}
+  - m_Name: bbd1ee
+    m_Color: {r: 0.7333333, g: 0.8196079, b: 0.9333333, a: 1}
+  - m_Name: a5b7e2
+    m_Color: {r: 0.6470588, g: 0.7176471, b: 0.8862745, a: 1}
+  - m_Name: 8f9ed5
+    m_Color: {r: 0.5607843, g: 0.6196079, b: 0.8352941, a: 1}
+  - m_Name: 748ab2
+    m_Color: {r: 0.454902, g: 0.5411765, b: 0.6980392, a: 1}
+  - m_Name: 58778e
+    m_Color: {r: 0.345098, g: 0.4666667, b: 0.5568628, a: 1}
+  - m_Name: 3d636b
+    m_Color: {r: 0.2392157, g: 0.3882353, b: 0.4196078, a: 1}
+  - m_Name: 5e4f5d
+    m_Color: {r: 0.3686275, g: 0.3098039, b: 0.3647059, a: 1}
+  - m_Name: 9c5864
+    m_Color: {r: 0.6117647, g: 0.345098, b: 0.3921569, a: 1}
+  - m_Name: ad6d66
+    m_Color: {r: 0.6784314, g: 0.427451, b: 0.4, a: 1}
+  - m_Name: bd8269
+    m_Color: {r: 0.7411765, g: 0.509804, b: 0.4117647, a: 1}
+  - m_Name: ce976b
+    m_Color: {r: 0.8078431, g: 0.5921569, b: 0.4196078, a: 1}
+  - m_Name: dbb57a
+    m_Color: {r: 0.8588235, g: 0.7098039, b: 0.4784314, a: 1}
+  - m_Name: e7d388
+    m_Color: {r: 0.9058824, g: 0.827451, b: 0.5333334, a: 1}
+  - m_Name: f1dfc1
+    m_Color: {r: 0.945098, g: 0.8745098, b: 0.7568628, a: 1}
+  - m_Name: c3c380
+    m_Color: {r: 0.7647059, g: 0.7647059, b: 0.5019608, a: 1}
+  - m_Name: 9fb278
+    m_Color: {r: 0.6235294, g: 0.6980392, b: 0.4705882, a: 1}
+  - m_Name: 789a73
+    m_Color: {r: 0.4705882, g: 0.6039216, b: 0.4509804, a: 1}
+  - m_Name: 5b7f6f
+    m_Color: {r: 0.3568628, g: 0.4980392, b: 0.4352941, a: 1}
