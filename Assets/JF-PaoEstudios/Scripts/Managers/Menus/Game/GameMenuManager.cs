@@ -424,7 +424,7 @@ public abstract class GameMenuManager : MonoBehaviour, IMenuManager
   private void ReturnToMenu()
   {
     if (_menuManager == null)
-      _menuManager = FindFirstObjectByType<MenuManager>();
+      _menuManager = FindAnyObjectByType<MenuManager>();
 
     if (_menuManager != null)
       _menuManager.GoToMainMenu();
